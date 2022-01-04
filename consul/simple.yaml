@@ -1,0 +1,8 @@
+global:
+  name: consul
+  enabled: false
+
+server:
+  enabled: true
+  replicas: 3
+
